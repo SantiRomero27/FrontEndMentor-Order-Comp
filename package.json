@@ -1,0 +1,11 @@
+{
+    "name": "order-summary-component",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Santiago <romerogherdinasantiago@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "dev": "live-server --browser=CHROME",
+        "dev:offline": "live-server --browser=CHROME --offline"
+    }
+}
